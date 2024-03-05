@@ -20,6 +20,7 @@
 <!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emintolgahanpolat" alt="emintolgahanpolat" /></a> </p>
 -->
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <a href="https://medium.com/@emintolgahanpolat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@emintolgahanpolat" height="30" width="40" /></a>
